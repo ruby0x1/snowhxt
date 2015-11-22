@@ -1,0 +1,13 @@
+{
+  project : {
+    name : 'snowhxt',
+    version : '0.0.1',
+    author : 'snowkit',
+    build : {
+      defines : ['HXCPP_STACK_TRACE', 'HXCPP_TELEMETRY'],
+      dependencies: {
+        hxtelemetry: '*'
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "name": "snowhxt",
+    "license": "MIT",
+    "url": "https://github.com/underscorediscovery/snowhxt",
+    "description": "snowhxt simplifies the snow and hxtelemetry configuration for hxscout",
+    "releasenote": "",
+    "version": "0.0.1",
+
+    "contributors": [ "underscorediscovery" ],
+    "tags": [ "cpp", "telemetry" ],
+    "dependencies": { }
+}
