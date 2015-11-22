@@ -36,10 +36,10 @@ import:
 `import snowhxt.Snowhxt;` 
 
 declare an instance:   
-`var shxt : snowhxt.Snowhxt;`
+`var shxt : Snowhxt;`
 
 create the instance:   
-`shxt = new snowhxt.Snowhxt();`
+`shxt = new Snowhxt();`
 
 ### step three
 
