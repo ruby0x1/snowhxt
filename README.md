@@ -59,14 +59,17 @@ override function update( delta:Float ) {
 
 ### notes
 
-If you want access to the hxt instance use `shxt.hxt`.
+If you want access to the hxt instance use `shxt.hxt`.   
 If you want to configure the hxtelemetry settings:
 
 ```haxe
+
 var myconfig = Snowhxt.default_config();
     myconfig.app_name = 'custom';
     myconfig.allocations = false;
+
 var sxht = new Snowhxt( myconfig );
+
 ```
 
 
