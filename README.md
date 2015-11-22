@@ -34,8 +34,10 @@ Usually you do this in `ready`, once.
 
 import:   
 `import snowhxt.Snowhxt;` 
+
 declare an instance:   
 `var shxt : snowhxt.Snowhxt;`
+
 create the instance:   
 `shxt = new snowhxt.Snowhxt();`
 
